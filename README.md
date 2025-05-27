@@ -4,6 +4,6 @@
 3. "GFN4SecureTM_IRS.ipynb" implements the proposed GFlowNet-based method for optimizing time modulation parameters in an OFDM TM-IRS system. "plotFigures.ipynb" is used to reproduce the figures presented in the paper.
    "tb_checkpoint_0dB.pth" contains the trained GFlowNet model, which can be loaded directly for inference or further use.
 
-5. "results_data0.npz-results_data3.npz" contain the raw SER data used in the paper. Note: results_data4.npz is missing due to accidental overwriting.
+5. "results_data0.npz-results_data3.npz" contain the raw SER data used in the paper. Note: results_data0 and results_data4.npz are missing due to accidental overwriting.
    However, this is not critical, as similar results can be regenerated using the saved checkpoint (tb_checkpoint_0dB.pth) and the provided code.
    Please make sure to change the file name or comment save code when run the code in order to avoid orveriding!
