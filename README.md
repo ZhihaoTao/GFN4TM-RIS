@@ -6,3 +6,4 @@
 
 5. "results_data0.npz-results_data3.npz" contain the raw SER data used in the paper. Note: results_data4.npz is missing due to accidental overwriting.
    However, this is not critical, as similar results can be regenerated using the saved checkpoint (tb_checkpoint_0dB.pth) and the provided code.
+   Please make sure to change the file name or comment save code when run the code in order to avoid orveriding!
