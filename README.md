@@ -1,4 +1,4 @@
-1. This code accompanies the paper "[Secure Time-Modulated Intelligent Reflecting Surface via Generative Flow Networks](http://eceweb1.rutgers.edu/%7Ecspl/materials/group/ZT/Asilomar2025__V0_.pdf)",
+1. This code accompanies the paper "[Secure Time-Modulated Intelligent Reflecting Surface via Generative Flow Networks](https://github.com/ZhihaoTao/zhihaotao.github.io/blob/main/publications/MILCOM2025.pdf)",
    by Z. Tao and A. Petropulu.
 
 3. "GFN4SecureTM_IRS.ipynb" implements the proposed GFlowNet-based method for optimizing time modulation parameters for a single user in an OFDM TM-IRS system.
